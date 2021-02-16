@@ -1,0 +1,3 @@
+My approach in this dataset is using NLP technology along with Tensorflow library. I have also used Transformers architecture i.e., BERT from Hugging face library. 
+I have used pre-train BERT model from Hugguing face library and feed the embedding into feed forward Neural Network.
+Later i used the Precision and Recall to check how fit is our model in predicting the class of test dataset.
